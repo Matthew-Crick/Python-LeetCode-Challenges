@@ -14,6 +14,7 @@ class Solution:
             self.output[i] += self.output[i-1] + nums[i]
         return self.output
 
+
 class MyTestCase(unittest.TestCase):
 
     def test_1(self):
