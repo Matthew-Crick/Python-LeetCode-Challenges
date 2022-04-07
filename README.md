@@ -1,2 +1,2 @@
 # Python_LeetCode_Challenges
-LeetCode Challenge solutions written in Python.
+A repository for LeetCode Challenge solutions written in Python.
